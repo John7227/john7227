@@ -2,6 +2,8 @@
 
 # Hi, I'm Lawrence John 👋
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Backend+Engineer;Software+Engineer;Java+Engineer;Python+Developer)
+
 **Software developer building practical applications and growing through hands-on projects.**
 
 I enjoy learning by making things, from Java applications and backend APIs to Python exercises and web pages. I’m currently strengthening my foundations in object-oriented programming, application design, and backend development.

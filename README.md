@@ -1,48 +1,59 @@
-![Profile banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Lawrence%20John&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:1f6feb,100:58a6ff&height=210&section=header&text=Lawrence%20John&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Lawrence John profile banner" />
+</p>
 
-# Hi, I'm Lawrence John 👋
+<h1 align="center">Hey, I'm Lawrence 👋</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Backend+Engineer;Software+Engineer;Java+Engineer;Python+Developer)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=680&lines=Java+Developer;Backend+Developer;Software+Engineer;Python+Programmer" alt="Java Developer, Backend Developer, Software Engineer, Python Programmer" />
+</p>
 
-**Software developer building practical applications and growing through hands-on projects.**
+<p align="center">
+  I build practical software, learn by shipping projects, and keep improving one feature at a time.
+</p>
 
-I enjoy learning by making things, from Java applications and backend APIs to Python exercises and web pages. I’m currently strengthening my foundations in object-oriented programming, application design, and backend development.
-
-## 🛠️ Technologies
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools and frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-## 🚀 Selected projects
-
-- **[LASTMA Project](https://github.com/John7227/Lastma-Project)** — Java backend for traffic enforcement workflows, with controllers and models for drivers, vehicles, offences, tickets, payments, and challenges.
-- **[Banking System](https://github.com/John7227/banking-system)** — Java application modeling customers, accounts, transactions, and account services.
-- **[My First OOP](https://github.com/John7227/My-First-OOP)** — Java practice projects covering object-oriented concepts, data structures, and small utilities, with tests for selected exercises.
-- **[My Python Projects](https://github.com/John7227/My-Python-Projects)** — Python exercises and small applications, including account and fuel-dispenser projects.
-- **[Landing Pages](https://github.com/John7227/Landing-Pages)** — A collection of responsive page builds using HTML and CSS.
-- **[Phase Gate practice](https://github.com/John7227/phaseGateJohn)** — Programming exercises in Java and JavaScript.
-
-## 🌱 Currently learning
-
-- Writing maintainable Java applications and APIs
-- Object-oriented design and testing
-- Building useful projects with Python
-- Improving front-end fundamentals with HTML, CSS, and JavaScript
-
-## 📫 Find me
-
-- GitHub: [@John7227](https://github.com/John7227)
+<p align="center">
+  <a href="https://github.com/John7227"><img src="https://img.shields.io/badge/GitHub-John7227-181717?style=for-the-badge&logo=github" alt="GitHub: John7227" /></a>
+  <img src="https://img.shields.io/badge/Focus-Java%20%26%20Backend-1f6feb?style=for-the-badge" alt="Focus: Java and backend development" />
+  <img src="https://img.shields.io/badge/Learning-Building%20every%20day-2ea043?style=for-the-badge" alt="Learning and building every day" />
+</p>
 
 ---
 
-*This profile is a work in progress, just like the projects I’m building.*
+## About me
+
+I’m a developer focused on building a strong foundation in **Java and backend development**. I enjoy turning ideas into working applications, understanding how the pieces fit together, and learning through hands-on practice.
+
+- ☕ Building Java applications with object-oriented design
+- ⚙️ Exploring backend APIs and application structure
+- 🐍 Practicing Python through exercises and small projects
+- 🌐 Creating web pages with HTML, CSS, and JavaScript
+- 🤝 Open to learning with others and contributing to useful projects
+
+## Tech I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,spring,html,css,git,maven&perline=8" alt="Java, Python, JavaScript, Spring, HTML, CSS, Git, and Maven" />
+</p>
+
+## Featured projects
+
+| Project | What I built |
+|---|---|
+| [LASTMA Project](https://github.com/John7227/Lastma-Project) | A Java backend organized around traffic enforcement workflows, including drivers, vehicles, offences, tickets, payments, and challenges. |
+| [Banking System](https://github.com/John7227/banking-system) | A Java application with account, customer, and transaction models, plus account services. |
+| [My First OOP](https://github.com/John7227/My-First-OOP) | Java exercises exploring object-oriented programming, data structures, and small utilities. |
+| [My Python Projects](https://github.com/John7227/My-Python-Projects) | Python practice projects, including an account program and a multi-fuel dispenser system. |
+| [Landing Pages](https://github.com/John7227/Landing-Pages) | Web page builds made with HTML and CSS. |
+
+## What I’m working on
+
+- Becoming more confident designing and building Java backends
+- Improving how I structure, test, and explain my code
+- Growing my Python and front-end skills through small projects
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by — feel free to explore my repositories.</i>
+</p>
